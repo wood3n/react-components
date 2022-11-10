@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[686],{1186:e=>{e.exports=JSON.parse('{"title":"React Tutorial","description":"Learn about some react components implementation method","keywords":["guides"],"slug":"/","permalink":"/","navigation":{"next":{"title":"carousel","permalink":"/tutorial/carousel/"}}}')}}]);
