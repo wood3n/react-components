@@ -1,0 +1,27 @@
+.scroll-container {
+  width: 240px;
+  overflow: auto;
+  border: 1px solid #f0f0f0;
+}
+
+.scroll-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.scroll-item {
+  padding: 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.scroll-item:hover{
+  background-color: #f0f0f0;
+}
+
+.scroll-loading {
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

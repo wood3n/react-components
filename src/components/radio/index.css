@@ -1,0 +1,17 @@
+.radio {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  column-gap: 12px;
+  padding: 24px;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+}
+
+.radio-option-label {
+  margin-left: 12px;
+}
+
